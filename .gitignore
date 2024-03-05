@@ -18,6 +18,7 @@ cmake-build-*/
 .idea/**/mongoSettings.xml
 *.iws
 out/
+.idea/
 .idea_modules/
 atlassian-ide-plugin.xml
 .idea/replstate.xml
@@ -106,3 +107,7 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+*.iml
+.ipr
+.iws
+
